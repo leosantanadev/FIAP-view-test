@@ -18,21 +18,18 @@ Minhas metas — cadastro de metas
 
 Sem JavaScript. Dados mockados direto no HTML.
 
-
-
-
 📁 Estrutura
 
-text.
-├── index.html   # Estrutura e conteúdo da tela
-├── styles.css   # Fonte e estilos extras
-└── README.md    # Este arquivo
+├── index.html => Estrutura e conteúdo da tela
+
+├── styles.css  => Fonte e estilos extras
+
+└── README.md => Este arquivo
 
 
 🛠️ Tecnologias
 
-TecnologiaUsoHTML5Estrutura da páginaTailwind CSSLayout e estilização (via CDN)CSSFonte Inter e ajustesSVGGráfico de evolução financeira
-
+HTML5, Tailwind CSS (via CDN), Fonte Inter, SVG
 
 ▶️ Como executar
 
@@ -40,12 +37,7 @@ TecnologiaUsoHTML5Estrutura da páginaTailwind CSSLayout e estilização (via CD
 Mantenha index.html e styles.css na mesma pasta.
 Dê um duplo clique em index.html.
 
-
-
 ⚠️ O Tailwind é carregado via CDN — é preciso internet na primeira abertura.
-
-
-
 
 📱 Responsividade
 
