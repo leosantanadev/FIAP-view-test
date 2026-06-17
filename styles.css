@@ -1,0 +1,21 @@
+/* ===== Fonte ===== */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Estilos personalizados complementares ao Tailwind */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Suaviza a transição dos botões e links */
+a,
+button {
+  transition: all 0.2s ease;
+}
+
+/* Garante boa leitura do gráfico em telas muito pequenas */
+@media (max-width: 480px) {
+  h2 {
+    font-size: 2.25rem;
+  }
+}
